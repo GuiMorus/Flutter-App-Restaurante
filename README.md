@@ -21,9 +21,19 @@ Este repositório contém os códigos desenvolvidos durante minha participação
 
 ### Aula 02 - Transforme dados em experiência real! Construa a Home e exiba os restaurantes
 
-Ainda verei a aula 😃
+- 📌 **Resumo da Aula**  
+  Retomamos para fazer a segunda página do aplicativo, onde aparecem as categorias e os restaurantes cadastrados.
 
----
+  Iniciamos vendo tipo de páginas assíncronas e como resgatar os dados através de dados recolhidos pelo JSON
+
+- 💭 **Minhas Impressões e Aprendizados**  
+  Esse foi um aulão da imersão, compreendi bastante de como utilizar o JSON para resgatar informações e, como de se esperar, houve divisões de pastas e arquivos para deixar o código cada vez mais organizado e dinâmico.
+
+  Muita das dúvidas que tenho é em relação a organização e quais as práticas de separação do código, essa imersão além de me mostrar o poder o Flutter, está abrindo meus olhos para como funciona a colaboração de códigos em empresas.
+
+  No início das aulas eu tava pegando bem os conceitos, depois embaralhou tudo, isso mostra o quanto que tenho que aprender ainda com o Flutter, mas era de se esperar, já que atualmente (19/04/25), fiz somente 2 projetos em Flutter e tenho muito que aprender ainda.
+
+  Imersão sensacional, o professor explica super bem, e provavelmente eu faça este curso na Alura para aprimorar meu Front end. 
 
 ### Aula 03 - Finalize o fluxo do app! Crie a experiência completa de pedido
 

@@ -15,6 +15,8 @@ abstract class AppTheme{
                 return Color.fromARGB(171, 255, 164, 89);
               }
               return AppColors.mainColor;
-            })))
+            })
+        )
+    )
   );
 }

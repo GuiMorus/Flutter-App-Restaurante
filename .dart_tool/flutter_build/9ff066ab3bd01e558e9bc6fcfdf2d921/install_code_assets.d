@@ -1,0 +1,1 @@
+ C:\\Users\\Slayer\ Kitsune\\Documents\\Repositorios\\Flutter-App-Restaurante\\.dart_tool\\flutter_build\\9ff066ab3bd01e558e9bc6fcfdf2d921\\native_assets.json: 

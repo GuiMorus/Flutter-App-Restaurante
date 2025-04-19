@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_app_restaurante/ui/_core/app_colors.dart';
+import 'package:flutter_app_restaurante/ui/home/home_screen.dart';
 
 class SplashScreen extends StatelessWidget {
   const SplashScreen({super.key});
@@ -15,21 +16,42 @@ class SplashScreen extends StatelessWidget {
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 24),
               child: Column(
-                  mainAxisAlignment: MainAxisAlignment.center,
-                  spacing: 32,
-                  children: [
-                    Image.asset('assets/logo.png', width: 192),
-                    Column(
-                      children: [
-                        Text("Um parceiro inovador para a sua", style: TextStyle(color: Colors.white, fontSize: 22)),
-                        Text("Melhor experiência culinária!", style: TextStyle(color: AppColors.mainColor, fontSize: 22, fontWeight: FontWeight.w600)),
-                      ],
+                mainAxisAlignment: MainAxisAlignment.center,
+                spacing: 32,
+                children: [
+                  Image.asset('assets/logo.png', width: 192),
+                  Column(
+                    children: [
+                      Text(
+                        "Um parceiro inovador para a sua",
+                        style: TextStyle(color: Colors.white, fontSize: 22),
+                      ),
+                      Text(
+                        "Melhor experiência culinária!",
+                        style: TextStyle(
+                          color: AppColors.mainColor,
+                          fontSize: 22,
+                          fontWeight: FontWeight.w600,
+                        ),
+                      ),
+                    ],
+                  ),
+                  SizedBox(
+                    width: double.infinity,
+                    child: ElevatedButton(
+                      onPressed: () {
+                        Navigator.pushReplacement(
+                          context,
+                          MaterialPageRoute(builder: (context) {
+                            return HomeScreen();
+                          }),
+                        );
+                      },
+                      child: Text("Bora!"),
                     ),
-                    SizedBox(
-                        width: double.infinity,
-                        child: ElevatedButton(onPressed: (){}, child: Text("Bora!"))
-                    )
-                  ]),
+                  ),
+                ],
+              ),
             ),
           ),
         ],
