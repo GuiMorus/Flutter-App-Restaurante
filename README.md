@@ -37,7 +37,17 @@ Este repositório contém os códigos desenvolvidos durante minha participação
 
 ### Aula 03 - Finalize o fluxo do app! Crie a experiência completa de pedido
 
-Ainda verei a aula 😃
+- 📌 **Resumo da Aula**  
+  Finalizamos o App com a tela de check-out e usando o Provider para gerenciar a quantidade de pedidos e o ListTile para embarcar nossas informações
+
+- 💭 **Minhas Impressões e Aprendizados**  
+  Se eu tinha alguma dúvida do poder do Flutter, nessa aula final senti um gostinho do que ele é capaz.
+
+  É engraçado como no começo tudo parece um bixo de 7 cabeças, quem vê códigos do Flutter e a quantidade de pastas/arquivos pela primeira vez, se assusta. Mas depois da imersão, fazendo os códigos lado a lado, fui entendendo cada vez mais cada função, parâmetros e cada Widget disponibilizado pelo Flutter.
+
+  Até Novembro deste ano(2025) quero terminar todo meu curso de Flutter para entender por completo essa ferramenta, e UI não vai ser problemas ou nenhuma barreira para mim. Por mais que eu goste do Backend, tive uma paixãozinha agora pelo Frontend, e, pelas conversas que eu tive com o professor da faculdade o Dart é uma boa opção para trabalhar com Orientação a Objetos.
+
+  Foi uma imersão incrível, mais pra frente quero fazer o curso de Flutter da Alura e aprimorar cada vez mais minhas habilidades no mundo do desenvolvimento.
 
 
 ## 🛠️ Tecnologias Utilizadas

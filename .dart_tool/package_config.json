@@ -8,6 +8,12 @@
       "languageVersion": "3.4"
     },
     {
+      "name": "badges",
+      "rootUri": "file:///C:/Users/Slayer%20Kitsune/AppData/Local/Pub/Cache/hosted/pub.dev/badges-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    },
+    {
       "name": "boolean_selector",
       "rootUri": "file:///C:/Users/Slayer%20Kitsune/AppData/Local/Pub/Cache/hosted/pub.dev/boolean_selector-2.1.2",
       "packageUri": "lib/",
@@ -182,7 +188,7 @@
       "languageVersion": "3.7"
     }
   ],
-  "generated": "2025-04-18T22:09:01.030625Z",
+  "generated": "2025-04-21T01:57:34.524367Z",
   "generator": "pub",
   "generatorVersion": "3.7.0",
   "flutterRoot": "file:///C:/Users/Slayer%20Kitsune/flutter",
